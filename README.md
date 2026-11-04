@@ -14,7 +14,7 @@
 
 ## 🦇 About
 
-Third-year CSE student at **IIIT Naya Raipur**, working on **systems programming, parallel computing and performance engineering** in **C++** and **Rust**. I research parallel optimization at **IIT Madras** and care about what the hardware is actually doing: caches, memory, threads, and the bugs that hide between them.
+Third-year CSE student at **IIIT Naya Raipur**, working on **systems programming, parallel computing and performance engineering** in **C++** and **Rust**. I research parallel optimization and care about what the hardware is actually doing: caches, memory, threads, and the bugs that hide between them.
 
 ```rust
 let janay = Engineer {
